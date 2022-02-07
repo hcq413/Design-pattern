@@ -9,5 +9,5 @@ public abstract class WebSite {
     /**
      * 使用
      */
-    public abstract void use();
+    public abstract void use(User user);
 }
