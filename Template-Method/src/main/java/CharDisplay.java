@@ -28,4 +28,7 @@ public class CharDisplay extends AbstractDisplay {
     public void close() {
         System.out.println(">>");
     }
+    /**
+     * 钩子方法，声明并实现（空实现或者定义相关内容皆可），继承此抽象类的子类可扩展实现或者不实现
+     */
 }
