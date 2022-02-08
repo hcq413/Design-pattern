@@ -5,6 +5,7 @@ import java.util.HashMap;
  *
  * @author 黄昌其
  * @date 2022/02/07
+ *GitLa'b
  */
 public class WebSiteFactory {
     //集合,充当池的使用
