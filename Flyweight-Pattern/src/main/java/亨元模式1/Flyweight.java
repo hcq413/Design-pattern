@@ -23,12 +23,4 @@ public abstract class Flyweight {
      * @param extrinsic 非本征
      */
     public abstract void operate(int extrinsic);
-
-    public String getIntrinsic() {
-        return intrinsic;
-    }
-
-    public void setIntrinsic(String intrinsic) {
-        this.intrinsic = intrinsic;
-    }
 }
