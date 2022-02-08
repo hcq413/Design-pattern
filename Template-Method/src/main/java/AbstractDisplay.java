@@ -23,6 +23,7 @@ public abstract class AbstractDisplay {
 
     /**
      * 显示
+     * 模板方法
      */
     public  final void  display(){
         open();
