@@ -1,5 +1,11 @@
 package com.hcq.xxx.v1;
 
+/**
+ * 遥控器
+ *
+ * @author 黄昌其
+ * @date 2022/02/11
+ */
 public class RemoteController {
 
     //开 按钮的命令数组
