@@ -12,6 +12,7 @@ public class Client {
         structure.add(new Woman());
         structure.add(new Man());
         structure.add(new Woman());
+        structure.add(new Woman());
         structure.display(new Success());
         structure.display(new Fail());
 
