@@ -16,5 +16,6 @@ public class Client {
         structure.display(new Success());
         structure.display(new Fail());
         System.out.println("切换版本1.0");
+        System.out.println("切换版本2.0");
     }
 }
