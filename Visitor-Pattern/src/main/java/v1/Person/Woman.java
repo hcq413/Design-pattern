@@ -1,4 +1,7 @@
-package v1;
+package v1.Person;
+
+import v1.Action.Action;
+import v1.Person.Person;
 
 public class Woman extends Person {
     @Override

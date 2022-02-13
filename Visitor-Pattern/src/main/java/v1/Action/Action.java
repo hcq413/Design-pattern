@@ -1,4 +1,8 @@
-package v1;
+package v1.Action;
+
+import v1.Person.Children;
+import v1.Person.Man;
+import v1.Person.Woman;
 
 /**
  * 动作
@@ -21,4 +25,12 @@ public abstract class Action {
      * @param woman 女人
      */
     public abstract void getWomanResult(Woman woman);
+
+
+    /**
+     * 获取孩子结果
+     *
+     * @param children 儿童
+     */
+    public abstract void getChildrenResult(Children children);
 }
